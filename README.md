@@ -11,3 +11,5 @@
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | Medium | [✓](/src/292 Nim Game/solution.c) |
 | 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | Easy | [✓](/src/111 Minimum Depth of Binary Tree/solution.c) |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy | [✓](/src/226 Invert Binary Tree/solution.c) |
+| 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | Easy | [✓](/src/112 Path Sum/solution.c) |
+| 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | Medium |  | [✓](/src/113 Path Sum II/solution.java) |
