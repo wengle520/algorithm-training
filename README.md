@@ -21,3 +21,7 @@
 | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | Medium | [✓](/src/12 Integer to Roman/solution.c) |
 | 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | Easy | [✓](/src/328 Odd Even Linked List/solution.c) |
 | 318 | [Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/) | Medium | [✓](/src/318 Maximum Product of Word Lengths/solution.c) |
+| 230 | [Kth Smallest Element in a BSTked List](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | Medium | [✓](/src/230 Kth Smallest Element in a BST/solution.c) |
+| 326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | Easy | [✓](/src/326 Power of Three/solution.c) |
+| 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | Medium | [✓](/src/108 Convert Sorted Array to Binary Search Tree/solution.c) |
+| 109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | Medium | [✓](/src/109 Convert Sorted List to Binary Search Tree/solution.c) |
